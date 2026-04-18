@@ -1,0 +1,20 @@
+# ============================================================
+# requirements.txt — GitHub Profile View Simulator
+# ============================================================
+#
+# ⚠️  WARNING: FOR EDUCATIONAL PURPOSES ONLY.
+# Installing and running this project against any platform
+# or website you do not own may violate their Terms of Service
+# and applicable law (e.g. CFAA or equivalent in your country).
+#
+# The author accepts NO liability for misuse.
+# ============================================================
+
+# Headless Chrome automation with anti-detection patches
+undetected-chromedriver>=3.5.5
+
+# Browser automation framework
+selenium>=4.0.0
+
+# Randomized user-agent string generation
+fake-useragent>=1.5.0
